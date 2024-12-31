@@ -516,7 +516,6 @@ print(cat.speak())  # Output: Whiskers says Meow!
   - **Method Overriding:** Subclasses can override methods of the parent class.
 
   - **`super()` Function:** To call methods from the parent class.
-    **JavaScript**
 
 - **Class Definition and Inheritance (ES6 Syntax):**
 
